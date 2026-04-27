@@ -1,0 +1,141 @@
+{
+    "GREET": "Bonjour, je m'appelle",
+    "TITLE_PREFIX": "Je suis",
+      "DEVELOPER": "Développeur",
+      "DESIGNER": "Designer",
+      "FREELANCER": "Freelance",
+    "DESCRIPTION": "Je suis un développeur web full-stack avec une expérience en freelance, à la recherche de nouvelles opportunités. Mon expertise consiste à créer et concevoir des sites web, des applications, des maquettes et bien plus encore...",
+    "DOWNLOAD_CV": "Télécharger CV",
+    "MENU": {
+      "HOME": "Accueil",
+      "ABOUT": "À propos",
+      "EXPERIENCE": "Expérience",
+      "SERVICES": "Services",
+      "PORTFOLIO": "Portfolio"
+    },
+  "ABOUT": {
+    "TITLE": "À propos de moi",
+    "ROLE": "Bonjour ! Je suis Omar",
+    "DESC1": "Développeur Web Full-Stack passionné, spécialisé dans la création de sites modernes, évolutifs et conviviaux.",
+    "DESC2": "Je me concentre sur de hautes performances et des expériences utilisateur fluides.",
+
+    "INFO": {
+      "NAME": "Nom",
+      "EMAIL": "Email",
+      "AGE": "Âge",
+      "FROM": "Origine"
+    }
+  },
+  "SERVICES": {
+    "DESC": "Je propose des services complets de développement web axés sur la performance, l’évolutivité et l’expérience utilisateur.",
+
+    "ITEMS": {
+      "FRONTEND": {
+        "DESC": "Création d’applications web réactives et performantes avec Angular, React.js et les frameworks JavaScript modernes."
+      },
+
+      "RESPONSIVE": {
+        "DESC": "Création d’interfaces mobile-first adaptées à tous les appareils et tailles d’écran."
+      },
+
+      "DATABASE": {
+        "TITLE": "Base de données & Architecture",
+        "DESC": "Conception de schémas de bases de données efficaces et d’architectures évolutives."
+      },
+
+      "BACKEND": {
+        "DESC": "Développement d’API REST sécurisées et évolutives avec Node.js, Express.js et technologies backend modernes."
+      },
+
+      "DEPLOYMENT": {
+        "TITLE": "Déploiement",
+        "DESC": "Déploiement et maintenance d’applications sur cloud et serveurs avec sécurité et haute disponibilité."
+      },
+
+      "PROBLEM": {
+        "TITLE": "Résolution de problèmes",
+        "DESC": "Analyse de problèmes complexes et création de solutions propres, efficaces et maintenables."
+      }
+    }
+  },
+   "PORTFOLIO": {
+    "TITLE": "Mon Portfolio",
+    "DESC": "Une sélection d’applications web que j’ai conçues et développées, axées sur la performance, l’ergonomie et les technologies modernes.",
+
+    "PROJECTS": {
+      "ORDER": "Application de gestion des commandes",
+      "STOCK": "Système web de gestion de stock",
+      "GARAGE": "Application de gestion de garage",
+      "ECOMMERCE": "Application web E-commerce"
+    },
+
+    "VIEW": "Voir le projet"
+  },
+  "MODAL": {
+    "ABOUT": "À propos du projet",
+    "TECH": "Technologies",
+    "DETAILS": "Détails du projet",
+    "TYPE": "Type",
+    "CLIENT": "Client",
+    "ROLE": "Rôle",
+    "DURATION": "Durée"
+  },
+   "PROJECT1": {
+    "TITLE": "Application Web E-commerce",
+    "DESCRIPTION": "Conception et développement d’un site e-commerce dédié à la vente d’équipements de fibre optique. La plateforme propose une interface claire et intuitive permettant de parcourir les produits, consulter les fiches techniques et envoyer des commandes efficacement.",
+    "ABOUT": "Ce projet a été réalisé lors d’un stage de quatre semaines au sein du département développement chez SITEM. L’objectif était d’appliquer les connaissances académiques dans un environnement professionnel réel en livrant une solution e-commerce fiable et fonctionnelle.",
+    "TYPE": "Projet de stage",
+    "CLIENT": "2ème année – DSI (ISET Nabeul)",
+    "ROLE": "Stagiaire développeur web",
+    "DURATION": "4 semaines (Jan – Fév 2022)"
+  },
+
+  "PROJECT2": {
+    "TITLE": "Application de Gestion des Commandes",
+    "DESCRIPTION": "Développement d’un système digital de gestion des commandes pour restaurant destiné à remplacer les méthodes papier traditionnelles. L’application améliore la rapidité, la précision des commandes et l’expérience client.",
+    "ABOUT": "Les clients utilisent une tablette pour consulter le menu, personnaliser leurs commandes et les envoyer directement depuis leur table. Les commandes sont transmises en temps réel au serveur et à la cuisine.",
+    "TYPE": "Projet académique",
+    "CLIENT": "3ème année – DSI (ISET Nabeul)",
+    "ROLE": "Développeur Full-Stack",
+    "DURATION": "4 mois (Fév – Mai 2023)"
+  },
+
+  "PROJECT3": {
+    "TITLE": "Système Web de Gestion de Stock",
+    "DESCRIPTION": "Développement d’une plateforme complète de gestion de stock pour un commerce de vêtements. Le système centralise les stocks, ventes, dépenses et statistiques via un tableau de bord interactif.",
+    "ABOUT": "Ce projet freelance a été conçu pour digitaliser le suivi des stocks et les opérations financières. Il permet la gestion des produits, catégories, achats, fournisseurs, ventes et dépenses.",
+    "TYPE": "Projet freelance",
+    "CLIENT": "Magasin de mode turque",
+    "ROLE": "Développeur Full-Stack",
+    "DURATION": "2 mois"
+  },
+
+  "PROJECT4": {
+    "TITLE": "Application de Gestion de Garage",
+    "DESCRIPTION": "Développement d’un système complet de gestion de garage pour simplifier les opérations quotidiennes. La plateforme centralise employés, clients, véhicules, réparations, devis et factures.",
+    "ABOUT": "Créée pour un mécanicien professionnel, cette solution freelance digitalise les opérations du garage et améliore l’efficacité du travail. Les factures peuvent aussi être envoyées directement par email.",
+    "TYPE": "Projet freelance",
+    "CLIENT": "Propriétaire d’atelier mécanique",
+    "ROLE": "Développeur Full-Stack",
+    "DURATION": "2 mois"
+  },
+  "CONTACT": {
+    "TITLE": "Contactez-moi",
+    "DESC": "Vous avez un projet en tête ou souhaitez discuter d’une collaboration ? N’hésitez pas à me contacter via le formulaire ci-dessous. Je reste toujours ouvert aux nouvelles opportunités et aux nouveaux défis.",
+
+    "FORM": {
+      "NAME": "Nom",
+      "COMPANY": "Entreprise / Organisation",
+      "PHONE": "Téléphone",
+      "MESSAGE": "Votre Message ",
+      "BUTTON": "Envoyer le message"
+    },
+
+    "INFO": {
+      "CALL": "Appelez-moi",
+      "LOCATION": "Localisation",
+      "EMAIL": "Envoyez-moi un email",
+      "COUNTRY": "Tunisie"
+    }
+  }
+}

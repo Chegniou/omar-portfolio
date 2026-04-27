@@ -1,0 +1,142 @@
+{
+    "GREET": "Hello, my name is",
+    "TITLE_PREFIX": "I'm a",
+      "DEVELOPER": "Developer",
+      "DESIGNER": "Designer",
+      "FREELANCER": "Freelancer",
+    "DESCRIPTION": "I am a full-stack web developer with freelance experience, seeking new opportunities. My expertise is to create and design websites, apps, mockups and many more...",
+    "DOWNLOAD_CV": "Download CV",
+   "MENU": {
+      "HOME": "Home",
+      "ABOUT": "About",
+      "EXPERIENCE": "Experience",
+      "SERVICES": "Services",
+      "PORTFOLIO": "Portfolio"
+    },
+        "ABOUT": {
+    "TITLE": "About Me",
+    "ROLE": "Hello! I'm Omar",
+    "DESC1": "A passionate Full-Stack Web Developer specialized in creating modern, scalable and user-friendly websites.",
+    "DESC2": "I focus on great performance and seamless user experiences.",
+    
+    "INFO": {
+      "NAME": "Name",
+      "EMAIL": "Email",
+      "AGE": "Age",
+      "FROM": "From"
+    }
+  },
+  "SERVICES": {
+    "DESC": "I provide end-to-end web development services focused on performance, scalability, and user experience.",
+
+    "ITEMS": {
+      "FRONTEND": {
+        "DESC": "Building responsive and high-performance web applications using Angular, React.js and modern JavaScript frameworks."
+      },
+
+      "RESPONSIVE": {
+        "DESC": "Creating mobile-first interfaces that work seamlessly across all devices and screen sizes."
+      },
+
+      "DATABASE": {
+        "TITLE": "Database & Data Architecture",
+        "DESC": "Designing efficient database schemas and scalable data architectures for performance and consistency."
+      },
+
+      "BACKEND": {
+        "DESC": "Developing secure and scalable RESTful APIs using Node.js, Express.js and modern backend technologies."
+      },
+
+      "DEPLOYMENT": {
+        "TITLE": "Deployment",
+        "DESC": "Deploying and maintaining applications on cloud and servers with security and high availability."
+      },
+
+      "PROBLEM": {
+        "TITLE": "Problem Solving",
+        "DESC": "Analyzing complex problems and delivering efficient, clean and maintainable solutions."
+      }
+    }
+  },
+    "PORTFOLIO": {
+    "TITLE": "My Portfolio",
+    "DESC": "A selection of web applications I have designed and developed, focused on performance, usability, and modern technologies.",
+
+    "PROJECTS": {
+      "ORDER": "Order Management Application",
+      "STOCK": "Stock Management Web System",
+      "GARAGE": "Garage Management Application",
+      "ECOMMERCE": "E-commerce Web Application"
+    },
+
+    "VIEW": "View Project"
+  },
+    "MODAL": {
+    "ABOUT": "About the Project",
+    "TECH": "Tech Stack",
+    "DETAILS": "Project Details",
+    "TYPE": "Type",
+    "CLIENT": "Client",
+    "ROLE": "Role",
+    "DURATION": "Duration"
+  },
+"PROJECT1": {
+    "TITLE": "E-commerce Web Application",
+    "DESCRIPTION": "Design and development of an e-commerce website dedicated to the sale of fiber optic equipment. The platform provides a clear and intuitive interface allowing users to browse products, view technical specifications, and submit purchase orders efficiently.",
+    "ABOUT": "This project was completed during a four-week internship within the Development Department at SITEM. The objective was to apply academic knowledge in a real professional environment by delivering a functional and reliable e-commerce solution aligned with business needs.",
+    "TYPE": "Internship Project",
+    "CLIENT": "2nd Year – DSI (ISET Nabeul)",
+    "ROLE": "Web Developer Intern",
+    "DURATION": "4 Weeks (Jan – Feb 2022)"
+  },
+
+  "PROJECT2": {
+    "TITLE": "Order Management Application",
+    "DESCRIPTION": "Development of a digital restaurant order management system designed to replace traditional paper-based ordering methods. The application improves speed, order accuracy, and customer experience.",
+    "ABOUT": "Customers use a tablet interface to browse the menu, customize orders, and submit them directly from their table. Orders are sent in real time to the server and kitchen, improving communication and reducing waiting times.",
+    "TYPE": "Academic Project",
+    "CLIENT": "3rd Year – DSI (ISET Nabeul)",
+    "ROLE": "Full-Stack Developer",
+    "DURATION": "4 Months (Feb – May 2023)"
+  },
+
+  "PROJECT3": {
+    "TITLE": "Stock Management Web System",
+    "DESCRIPTION": "Development of a complete stock management platform for a clothing retail business. The system centralizes inventory, sales, expenses, and reporting with an interactive dashboard.",
+    "ABOUT": "This freelance project was built to digitize stock tracking and financial operations. It manages products, categories, purchases, supplier payments, customer sales, and expenses efficiently.",
+    "TYPE": "Freelance Project",
+    "CLIENT": "Turkish Fashion Store",
+    "ROLE": "Full-Stack Developer",
+    "DURATION": "2 Months"
+  },
+
+  "PROJECT4": {
+    "TITLE": "Garage Management Application",
+    "DESCRIPTION": "Development of a complete garage management system to streamline daily operations. The platform centralizes employees, customers, vehicles, repairs, quotations, and invoices.",
+    "ABOUT": "Built for a professional mechanic, this freelance solution digitizes garage operations and improves workflow efficiency. Invoices can also be sent directly to customers by email.",
+    "TYPE": "Freelance Project",
+    "CLIENT": "Mechanical Workshop Owner",
+    "ROLE": "Full-Stack Developer",
+    "DURATION": "2 Months"
+  },
+  "CONTACT": {
+    "TITLE": "Get in Touch",
+    "DESC": "Have a project in mind or want to discuss a collaboration? Feel free to contact me using the form below. I am always open to new opportunities and challenges.",
+
+    "FORM": {
+      "NAME": "Name",
+      "COMPANY": "Company / Organization",
+      "PHONE": "Phone",
+      "MESSAGE": "Your Message ",
+      "BUTTON": "Send Message"
+    },
+
+    "INFO": {
+      "CALL": "Call Us",
+      "LOCATION": "Location",
+      "EMAIL": "Email Us",
+      "COUNTRY": "Tunisia"
+    }
+  }
+    
+}
